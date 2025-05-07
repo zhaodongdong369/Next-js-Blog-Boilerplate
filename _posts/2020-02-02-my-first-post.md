@@ -8,7 +8,7 @@ image: /assets/images/posts/random-img.jpg
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Example with image:
+Example with image:2
 
 ![Error](@@baseUrl@@/assets/images/posts/error.png)
 
